@@ -5,4 +5,3 @@ A Java program that allows one to load an image from the local machine or using 
 ## Use
 Thanks for stopping bye! The software is currently underdevelopment. Come back soon!
 ##
-
